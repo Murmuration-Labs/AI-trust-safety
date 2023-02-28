@@ -1,4 +1,4 @@
-# AI Trust & Safety
+# AI Trust & Safety Explorations
 
 *AI design pattern explorations for Trust &amp; Safety applications*
 
@@ -22,4 +22,18 @@ One of the guiding principles of PAI's Framework includes disclosure about the u
 
 Blog posts and long-form articles on the web more generally, are one of the most common types of content online today. They usually consist of a combination of text and images, and sometimes embedded content such as a video, audio, or form. 
 
-The design explorations below examine the most relevant points where a content creator, website owner, or platform provider might wish to disclose the presence and degree of AI assistance.
+The design explorations below examine the most relevant points where a content creator, website owner, or platform provider might wish to disclose the presence and degree of AI assistance. They are:
+
+- At the post preview level
+- On the post itself (such as header/footer)
+- Inline with the content 
+- At the level of the feed
+- On the user settings page
+
+### Post Preview
+
+Though each use case would need to be analyzed on its own, it seems that it would be beneficial to include some information about the use of generative AI at the level of a post preview, before a user clicks through to a post on a blog site. 
+
+Here is a visualization for a possible design pattern to disclose the presence of AI-assistance, or AI-generated content, along with the estimated percent of AI-generated content in the post. 
+
+![image](https://github.com/Murmuration-Labs/AI-trust-safety/blob/main/AI%20blog%20preview%20card%20-%20assisted.png?raw=true)
