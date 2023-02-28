@@ -50,7 +50,4 @@ Below is a variation where the "AI-assisted" tag or label appears in a pill-form
 
 Lastly, in the variation below, the presence of generative AI content is indicated by a more subtle robot emoji, which could be augmented by a tooltip that gives more information to the reader:
 
-![image](https://user-images.githubusercontent.com/72826716/221924443-d7f46c55-ff1a-4bd3-bdbc-0471cc1ff029.png)
-
-
-The design explorations below examine the most relevant points where a content creator, website owner, or platform provider might wish to disclose the presence and degree of AI assistance. They are:
+![image](https://user-images.githubusercontent.com/72826716/221924801-a254bc4e-b529-460c-8f5b-b856107fa199.png)
