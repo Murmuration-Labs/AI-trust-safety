@@ -43,3 +43,14 @@ Here is a visualization for a possible design pattern to disclose the presence o
 In the first example, we explored the idea that a blog post would be considered only "AI-assisted" where it contains a lower percentage of generative AI content (the blogger or platform would choose the threshold). 
 
 In the second example, we propose using the label "AI-generated" where the content contains a higher percentage of generative AI content (also defined by the blogger or platform). 
+
+Below is a variation where the "AI-assisted" tag or label appears in a pill-format:
+
+![image](https://user-images.githubusercontent.com/72826716/221923628-15b2e96f-5d04-483b-95ca-6e6ccc6632a1.png)
+
+Lastly, in the variation below, the presence of generative AI content is indicated by a more subtle robot emoji, which could be augmented by a tooltip that gives more information to the reader:
+
+![image](https://user-images.githubusercontent.com/72826716/221924443-d7f46c55-ff1a-4bd3-bdbc-0471cc1ff029.png)
+
+
+The design explorations below examine the most relevant points where a content creator, website owner, or platform provider might wish to disclose the presence and degree of AI assistance. They are:
