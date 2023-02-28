@@ -37,3 +37,9 @@ Though each use case would need to be analyzed on its own, it seems that it woul
 Here is a visualization for a possible design pattern to disclose the presence of AI-assistance, or AI-generated content, along with the estimated percent of AI-generated content in the post. 
 
 ![image](https://github.com/Murmuration-Labs/AI-trust-safety/blob/main/AI%20blog%20preview%20card%20-%20assisted.png?raw=true)
+
+![image](https://github.com/Murmuration-Labs/AI-trust-safety/blob/main/AI%20blog%20preview%20card%20-%20generated.png?raw=true)
+
+In the first example, we explored the idea that a blog post would be considered only "AI-assisted" where it contains a lower percentage of generative AI content (the blogger or platform would choose the threshold). 
+
+In the second example, we propose using the label "AI-generated" where the content contains a higher percentage of generative AI content (also defined by the blogger or platform). 
