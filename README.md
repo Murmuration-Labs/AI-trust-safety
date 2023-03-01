@@ -103,3 +103,29 @@ Similarly, with X-ray Mode activated, there could be multiple ways of differenti
 Other means of differentiating AI-text from human-written text that might be worth exploring: using a different font, a highlight color, or even a text or emoji symbol. We also have been exploring how one might use either custom markdown or markup for [annotating contributions by each party in a hybrid AI/human-written document](https://github.com/lost-books/AIMark-AI-attribution/). More experimentation needs to be done in this area.
 
 ## User Settings
+
+In the examples above, we supposed that it would be possible and desirable for creators and/or platforms to disclose the presence and amount of generative AI contributions to a given piece of content, such as a blog post. 
+
+The other side of that, then, would be enabling users or readers of the site to fine-tune their preferences for content that includes generative AI. Some users might want to exclude all such content from their browsing experience, while others might choose to allow only AI-assisted texts (between a certain threshold of AI contributions, and still others might be comfortable seeing posts that were fully AI-generated. 
+
+Given that this is likely to be an important preference, we thought it would make sense to give two points of control to readers:
+
+- At the feed level
+- On the settings page. 
+
+We imagined the feed level control might be something as simple as the following:
+
+![image](https://user-images.githubusercontent.com/72826716/222250814-a79f62a2-918c-4294-a80b-e81f2c9cd409.png)
+
+And then additional options and more information would be available in a dedicated section of the Settings page, as in the example below.
+
+![image](https://user-images.githubusercontent.com/72826716/222251112-825c1ea9-881e-44b3-8565-c80f554174c1.png)
+
+In this settings page example, we imagined having the following controls:
+
+- Allow/disallow content with generative AI elements
+- Set the threshold to include partial AI-assisted content or fully AI-generated content
+- Show/hide labels for content that includes generative AI elements
+- Enable X-ray view by default on all posts containing generative elements (readers could also toggle this individually on post pages)
+
+Likely, as these technologies develop over time, both readers and creators will want to have other elements they can use to customize their experience related to generative AI content. 
