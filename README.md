@@ -20,7 +20,7 @@ One of the guiding principles of PAI's Framework includes disclosure about the u
 
 - *For another discussion from 2021 regarding labeling of generative AI content, we also recommend [First Draft's article](https://firstdraftnews.org/long-form-article/from-deepfakes-to-tiktok-filters-how-do-you-label-ai-content/).*
 
-## AI Blogging: Labeling AI-Assisted Text & Images
+# AI Blogging: Labeling AI-Assisted Text & Images
 
 Blog posts and long-form articles on the web more generally, are one of the most common types of content online today. They usually consist of a combination of text and images, and sometimes embedded content such as a video, audio, or form. 
 
@@ -32,7 +32,7 @@ The design explorations below examine the most relevant points where a content c
 - At the level of the feed
 - On the user settings page
 
-### Post Preview
+## Post Preview
 
 Though each use case would need to be analyzed on its own, it seems that it would be beneficial to include some information about the use of generative AI at the level of a post preview, before a user clicks through to a post on a blog site. 
 
@@ -58,7 +58,7 @@ Lastly, in the variation below, the presence of generative AI content is indicat
 
 Though each use case would need to be analyzed on its own, it seems that it would be beneficial to include some information about the use of generative AI at the level of a post preview, before a user clicks through to a post on a blog site. 
 
-### Post Level
+## Post Level
 
 The next obvious place to include responsible disclosure of the use of generative AI is at the level of a post or article itself. This might include elements in the footer, header, or sidebar. 
 
@@ -78,7 +78,7 @@ And below is the accompanying visualization that might appear in the footer of t
 
 In this case, we chose to display additional information about the models used for both text and graphical elements, and their relative percent use for the contents of the article. This metadata might also usefully link out to the AI/ML model cards for the models used, which would presumably contain more information. 
 
-#### Notes on determining AI content provenance: 
+### Notes on determining AI content provenance: 
 
 As this is only a visual/UI exploration, we have not resolved here the matter of *how* the information about the content's provenance (models used, etc.) might be determined. This is a separate and more technical problem, which might require some standardization on the part of generative AI tool providers, such that it becomes possible to export metadata about the content's origin which can effectively travel along with the data across other platforms. (See: [C2PA](https://en.wikipedia.org/wiki/C2PA) for parallel work in this direction)
 
@@ -86,7 +86,7 @@ Alternatively, if the blogging platform on which this article was posted itself 
 
 Lastly, it may become possible in the future to more accurately detect the presence of AI generated content by third party scanning applications, though there are legitimate concerns that will need to be addressed related to accuracy and cost before large scale scanning could become useful. 
 
-### Inline Level
+## Inline Level
 
 The next product surface where disclosure about the use of generative AI might occur would be at the inline level, displayed within or alongside the content itself. 
 
@@ -101,3 +101,5 @@ Similarly, with X-ray Mode activated, there could be multiple ways of differenti
 ![image](https://user-images.githubusercontent.com/72826716/222208348-f624be7a-9195-4c30-97e8-fc25408b780d.png)
 
 Other means of differentiating AI-text from human-written text that might be worth exploring: using a different font, a highlight color, or even a text or emoji symbol. We also have been exploring how one might use either custom markdown or markup for [annotating contributions by each party in a hybrid AI/human-written document](https://github.com/lost-books/AIMark-AI-attribution/). More experimentation needs to be done in this area.
+
+## User Settings
