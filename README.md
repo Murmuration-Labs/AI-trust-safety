@@ -137,3 +137,8 @@ The above is just one exploration of UI design patterns for implementing respons
 We welcome comments, questions, and more detailed conversations on these topics!
 
 Thanks for reading.
+
+## Credits
+
+- Fernando Valverde: UI Design
+- T. Boucher: Creative Direction, Writing
