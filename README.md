@@ -140,5 +140,5 @@ Thanks for reading.
 
 ## Credits
 
-- Fernando Valverde: UI Design
-- T. Boucher: Creative Direction, Writing
+- Fernando Valverde: *UI Design*
+- T. Boucher: *Creative Direction, Writing*
