@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The rise of generative AI tools has brought about a new set of content abuse problems for the services that create text, images, video, and audio content using artificial intelligence, and the platforms that host this content. 
+The rise of generative AI tools has brought about a new set of content abuse problems for the creators and services that create text, images, video, and audio content using artificial intelligence, and the platforms that host this content. 
 
 While the underlying AI technology is relatively new, the discipline of Trust & Safety has developed over the years a wealth of knowledge and experience about identifying and mitigating risks related to problematic types of content. 
 
@@ -129,3 +129,11 @@ In this settings page example, we imagined having the following controls:
 - Enable X-ray view by default on all posts containing generative elements (readers could also toggle this individually on post pages)
 
 Likely, as these technologies develop over time, both readers and creators will want to have other elements they can use to customize their experience related to generative AI content. 
+
+# Conclusion
+
+The above is just one exploration of UI design patterns for implementing responsible disclosure practices around generative AI use in blogging and online articles. It is our hope in sharing these examples to further the conversation around best practices and Trust & Safety in products making use of generative AI. We plan to produce some other case studies for other related tools, which we will publish here in the near future.
+
+We welcome comments, questions, and more detailed conversations on these topics!
+
+Thanks for reading.
