@@ -18,6 +18,8 @@ One significant effort to define the issues, and propose possible solutions come
 
 One of the guiding principles of PAI's Framework includes disclosure about the use of generative AI, and we have chosen that principle to focus on in the explorations below. We believe there are many use cases where disclosure will be beneficial not just to content creators and distributors, but also to end users (readers) of content. 
 
+- For another discussion from 2021 regarding labeling of generative AI content, we also recommend [First Draft's article](https://firstdraftnews.org/long-form-article/from-deepfakes-to-tiktok-filters-how-do-you-label-ai-content/).
+
 ## AI Blogging: Labeling AI-Assisted Text & Images
 
 Blog posts and long-form articles on the web more generally, are one of the most common types of content online today. They usually consist of a combination of text and images, and sometimes embedded content such as a video, audio, or form. 
@@ -46,8 +48,10 @@ In the second example, we propose using the label "AI-generated" where the conte
 
 Below is a variation where the "AI-assisted" tag or label appears in a pill-format:
 
-![image](https://user-images.githubusercontent.com/72826716/221923628-15b2e96f-5d04-483b-95ca-6e6ccc6632a1.png)
+![image](https://user-images.githubusercontent.com/72826716/222200223-41b16ba6-6ec1-4e25-84e0-823cbc875c87.png)
 
 Lastly, in the variation below, the presence of generative AI content is indicated by a more subtle robot emoji, which could be augmented by a tooltip that gives more information to the reader:
 
-![image](https://user-images.githubusercontent.com/72826716/221924801-a254bc4e-b529-460c-8f5b-b856107fa199.png)
+![image](https://user-images.githubusercontent.com/72826716/222200298-93ee546c-b74f-4e55-b510-afae8a3a0cad.png)
+
+Though each use case would need to be analyzed on its own, it seems that it would be beneficial to include some information about the use of generative AI at the level of a post preview, before a user clicks through to a post on a blog site. 
