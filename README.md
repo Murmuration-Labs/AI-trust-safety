@@ -36,7 +36,7 @@ Though each use case would need to be analyzed on its own, it seems that it woul
 
 Here is a visualization for a possible design pattern to disclose the presence of AI-assistance, or AI-generated content, along with the estimated percent of AI-generated content in the post. 
 
-![image](https://user-images.githubusercontent.com/72826716/222199050-471d00b8-6941-42a1-83f1-27c528905cdd.png)
+![image](https://user-images.githubusercontent.com/72826716/222199496-2c615d54-8e5d-4a68-9cdb-fa5d4f12a6b0.png)
 
 ![image](https://user-images.githubusercontent.com/72826716/222199188-c5bc697e-08af-4acf-9b36-afe6e658f50e.png)
 
